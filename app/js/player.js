@@ -1,3 +1,6 @@
+// This is a snippet of code from video-dev. Client RTMP player.
+
+
 var player = new Clappr.Player({
     source: "rtmp://source_here",
     parentId: "#player-wrapper",
